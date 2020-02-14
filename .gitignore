@@ -1,0 +1,9 @@
+# ignore pcharm files
+*.idea*
+
+# ignore compiled python files
+*.pyc
+
+# ignore DS Store
+*DS_Store*
+
