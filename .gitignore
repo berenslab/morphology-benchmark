@@ -7,3 +7,5 @@
 # ignore DS Store
 *DS_Store*
 
+# ignore ipython notebook checkpoints
+*.ipynb_checkpoints*
