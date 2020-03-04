@@ -11,7 +11,7 @@ Make sure the following dependecies are installed:
 Check out the repository via
 `git clone https://github.com/berenslab/morphology-benchmark`. 
 
-Download all data from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3667466.svg)](https://doi.org/10.5281/zenodo.3667466) and unpack the folder `data` to the location of the repository.
+Download all data from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3696638.svg)](https://doi.org/10.5281/zenodo.3696638) and unpack the folder `data` to the location of the repository.
 Now you can run all notebooks to generate the published figures.
 
 ## Reproducing the study
