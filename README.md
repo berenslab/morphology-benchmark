@@ -1,5 +1,5 @@
 # morphology-benchmark
-Code for the paper [_A systematic evaluation of interneuron morphology representations for cell type discrimination_](https://www.biorxiv.org/content/10.1101/591370v2.full).
+Code for the paper [_A systematic evaluation of interneuron morphology representations for cell type discrimination_](https://link.springer.com/article/10.1007/s12021-020-09461-z).
 
 All data for the publication figures can be found here 
 
@@ -11,7 +11,7 @@ Make sure the following dependecies are installed:
 Check out the repository via
 `git clone https://github.com/berenslab/morphology-benchmark`. 
 
-Download all data from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3667466.svg)](https://doi.org/10.5281/zenodo.3667466) and unpack the folder `data` to the location of the repository.
+Download all data from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3696638.svg)](https://doi.org/10.5281/zenodo.3696638) and unpack the folder `data` to the location of the repository.
 Now you can run all notebooks to generate the published figures.
 
 ## Reproducing the study
@@ -29,3 +29,7 @@ Example code on the computation of density maps, 2D persistence diagrams and mor
   publisher={Cold Spring Harbor Laboratory}
 }
 ```
+## Errata ##
+|page|Original text| Correction|
+|:---|:------------|:----------|
+|p.8 | "...e.g. it grew from 0.14 ± 0.06 to 0.17 ± 0.07, mean±95CI across all 21 pairs..."| (Cor)"...e.g. it grew from 0.14 (0.08 - 0.2, mean and 95% CI across all 21 pairs) to 0.17 (0.1 - 0.24)..."|
